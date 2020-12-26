@@ -1,0 +1,16 @@
+{
+  "name": "patang-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "patang": "^1.0.7",
+    "puppeteer": "^5.5.0"
+  }
+}
